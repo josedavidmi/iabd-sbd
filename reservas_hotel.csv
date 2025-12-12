@@ -1,0 +1,64 @@
+id_reserva,fecha_reserva,tipo_habitacion,noches,precio_total,canal_reserva
+R0001,2024/06/12,Doble Económica,6,372.0,Teléfono
+R0002,27/02/2024,Doble Económica,6,408.0,Web
+R0003,2024-01-09,Doble Económica,2,110.0,Agencia
+R0004,05/23/2024,Familiar,4,396.0,Agencia
+R0005,30-05-2024,Doble Económica,7,476.0,Agencia
+R0006,28-03-2024,DobleEcon,2,116.0,Teléfono
+R0007,24/01/24,Doble Económica,3,189.0,Teléfono
+R0008,01/12/24,Familiar,1,87.0,App móvil
+R0009,21-05-2024,Familir,7,637.0,Teléfono
+R0010,2024/06/29,Doble Económica,6,384.0,Agencia
+R0011,01/21/2024,Doble Económica,4,276.0,Teléfono
+R0012,06-11-2024,DobleEcon,3,183.0,Teléfono
+R0013,20-06-2024,Doble Económica,5,310.0,Agencia
+R0014,02/11/24,Individual,3,150.0,Agencia
+R0015,01/15/2024,Doble Económica,7,469.0,Teléfono
+R0016,2024/03/09,Suite,5,755.0,Teléfono
+R0017,06/16/24,Individual,6,264.0,App móvil
+R0018,08/03/2024,Suite,6,948.0,Teléfono
+R0019,29/05/24,Suit,2,320.0,Agencia
+R0020,2024-01-24,Doble Económica,2,136.0,Agencia
+R0021,2024/06/01,Individual,4,192.0,App móvil
+R0022,2024-05-21,Doble Económica,6,390.0,Teléfono
+R0023,29-01-2024,Individual,2,80.0,App móvil
+R0024,08-03-24,DobleEcon,5,320.0,Web
+R0025,12-06-24,Familir,2,192.0,Agencia
+R0026,11-02-24,Familiar,1,100.0,Teléfono
+R0027,2024/01/05,Suit,7,1064.0,Teléfono
+R0028,01/15/2024,Familir,1,100.0,Web
+R0029,18-01-24,DobleEcon,2,120.0,App móvil
+R0030,08-03-24,Familir,4,364.0,Agencia
+R0031,20/03/24,Suit,4,592.0,App móvil
+R0032,03/04/2024,Doble Económica,3,186.0,Web
+R0033,05/30/2024,Doble Económica,1,62.0,Web
+R0034,2024-01-18,Suit,1,153.0,Agencia
+R0035,06/20/24,Suite,5,800.0,Agencia
+R0036,03/03/24,Individual,2,86.0,Web
+R0037,17/06/24,Suit,4,636.0,App móvil
+R0038,2024/01/14,Doble Económica,4,232.0,Teléfono
+R0039,03/04/2024,Suite,5,745.0,App móvil
+R0040,18/04/2024,Suite,4,588.0,Agencia
+R0041,23-04-24,Doble Económica,1,57.0,Web
+R0042,01/03/2024,Individual,4,184.0,App móvil
+R0043,2024-04-12,DobleEcon,4,268.0,Web
+R0044,03/08/24,Suite,4,596.0,App móvil
+R0045,18-02-2024,Suite,1,155.0,Web
+R0046,2024-01-15,Familir,4,344.0,Agencia
+R0047,2024/05/10,DobleEcon,1,62.0,Web
+R0048,2024/04/13,Familir,2,174.0,Web
+R0049,04-17-24,Familir,5,465.0,Teléfono
+R0050,02-22-2024,Suite,3,447.0,App móvil
+R0051,20-06-2024,Indivual,3,120.0,Web
+R0052,04-27-24,Familir,1,91.0,Web
+R0053,09-05-2024,DobleEcon,3,186.0,Web
+R0054,04-04-2024,DobleEcon,4,220.0,Teléfono
+R0055,19-06-24,Suite,6,894.0,Web
+R0056,2024/03/08,Doble Económica,6,378.0,Agencia
+R0057,03-13-24,Suite,6,906.0,Teléfono
+R0058,24-06-2024,Familiar,4,344.0,Teléfono
+R0059,24/01/24,Suite,1,155.0,Web
+R0060,03-02-2024,DobleEcon,6,408.0,App móvil
+R0025,12-06-24,Familir,2,192.0,Agencia
+R0040,18/04/2024,Suite,4,588.0,Agencia
+R0016,2024/03/09,Suite,5,755.0,Teléfono
